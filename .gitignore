@@ -185,3 +185,6 @@ docs/
 
 # translation temp files
 po/*~
+
+# IPYNB checkpoints
+src/.ipynb_checkpoints
